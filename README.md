@@ -1,4 +1,3 @@
 # TIDE
------
-Specific details will be coming soon. Stay tuned for our updates.
+Specific details will be coming soon. Stay tuned for our updates. 
 
